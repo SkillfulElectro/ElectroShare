@@ -1,4 +1,4 @@
-#ElectroShare
+# ElectroShare
 
 is an app that allows you to transfer files across local area networks (LAN) and wide area networks (WAN) (WAN functionality is still being tested).
 
